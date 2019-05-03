@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.carolsmanioto.com.correiosfunctionaltests.CorreiosFunctionalTestsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 58.776 s - in com.carolsmanioto.com.correiosfunctionaltests.CorreiosFunctionalTestsApplicationTests

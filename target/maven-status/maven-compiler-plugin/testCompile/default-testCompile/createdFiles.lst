@@ -1,0 +1,6 @@
+com/carolsmanioto/com/correiosfunctionaltests/pages/BuscaCepEnderecoIT.class
+com/carolsmanioto/com/correiosfunctionaltests/base/SeleniumFactory.class
+com/carolsmanioto/com/correiosfunctionaltests/base/Browser.class
+com/carolsmanioto/com/correiosfunctionaltests/CorreiosFunctionalTestsApplicationTests.class
+com/carolsmanioto/com/correiosfunctionaltests/base/OperationalSystem.class
+com/carolsmanioto/com/correiosfunctionaltests/base/BaseSelenium.class
